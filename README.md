@@ -1,20 +1,20 @@
 ## Hello World, I'm Gabriel Henrique 🌎
-FullStack Developer :computer:
+**FullStack Developer** :computer:
 
-I’m from Brazil :house_with_garden:
-
-
-Programming and technology enthusiast 🖤
+**I’m from Brazil** :house_with_garden:
 
 
-Currently learning everything 📚
+**Programming and technology enthusiast** 🖤
 
-2021 Goals: create a new project and find a new job :outbox_tray:
+
+**Currently learning everything** 📚
+
+**2021 Goals: create a new project and find a new job** :outbox_tray:
 
 <div>
   <a href="https://github.com/GabrielHenriqueCA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueCA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueCA&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenriqueCA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriqueCA&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 <div>
