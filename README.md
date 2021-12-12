@@ -1,5 +1,5 @@
 ## Hello World, I'm Gabriel Henrique 🌎
-**FullStack Developer** :computer:
+**Front-end Developer** :computer:
 
 **I’m from Brazil** :house_with_garden:
 
