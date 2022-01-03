@@ -9,7 +9,7 @@
 
 **Currently learning everything** 📚
 
-**2021 Goals: create a new project and find a new job** :outbox_tray:
+**2021 Goals: Find a new job in programming** :outbox_tray:
 
 <div>
   <a href="https://github.com/GabrielHenriqueCA">
