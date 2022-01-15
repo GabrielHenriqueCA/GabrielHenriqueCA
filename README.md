@@ -1,5 +1,5 @@
 ## Hello World, I'm Gabriel Henrique 🌎
-**Full Stack Developer** :computer:
+**Software Developer** :computer:
 
 **I’m from Brazil** :house_with_garden:
 
@@ -7,7 +7,7 @@
 **Programming and technology enthusiast** 🖤
 
 
-**Currently learning everything** 📚
+**Currently learning Web Development📚**
 
 **2021 Goals: Find a new job in programming** :outbox_tray:
 
