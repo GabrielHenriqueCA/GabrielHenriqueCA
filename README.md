@@ -7,7 +7,7 @@
 **Programming and technology enthusiast** 🖤
 
 
-**Currently learning Web Development📚**
+**Currently learning Back-end Development📚**
 
 **2021 Goals: Find a new job in programming** :outbox_tray:
 
