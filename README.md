@@ -7,9 +7,7 @@
 **Programming and technology enthusiast** 🖤
 
 
-**Currently learning Back-end Development📚**
-
-**2022 Goals: Improve in Java** :outbox_tray:
+**Currently learning Back-end Development and Data Analysist📚**
   
 <div>
   <a href = "mailto:gabrielhcacontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
