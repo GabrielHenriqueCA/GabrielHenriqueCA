@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0e,50:1f6feb,100:00ff88&height=200&section=header&text=Gabriel%20Henrique&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20Data%20Architecture&descAlignY=56&descSize=20" width="100%" alt="Gabriel Henrique, Data Engineer and Data Architecture"/>
 
-<a href="https://gabrielh.dev/index-en.html"><img src="https://gabrielh.dev/gabriel-henrique.jpg" align="right" width="200" alt="Gabriel Henrique, Data Engineer in São Paulo, Brazil"/></a>
-
 # Gabriel Henrique | Data Engineer & Data Architecture
 
 <a href="https://gabrielh.dev/index-en.html"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF88&vCenter=true&width=520&lines=Data+Engineer+from+S%C3%A3o+Paulo%2C+Brazil;Databricks+%7C+PySpark+%7C+Azure+%7C+Airflow;Data+Architecture+%26+Governance;In+God+we+trust%3B+all+others+must+bring+data." alt="Data Engineer from São Paulo, Brazil. Databricks, PySpark, Azure, Airflow. Data Architecture and Governance."/></a>
@@ -13,8 +11,6 @@ Stack: **Databricks, Apache Spark (PySpark), Delta Lake, Unity Catalog, Airflow,
 🌐 **Portfolio:** [gabrielh.dev](https://gabrielh.dev/index-en.html) · 🇧🇷 [versão em português](https://gabrielh.dev/)
 
 🇧🇷 *Engenheiro de Dados em São Paulo | Arquitetura de Dados, Governança, Databricks, PySpark, Azure e Airflow.*
-
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
