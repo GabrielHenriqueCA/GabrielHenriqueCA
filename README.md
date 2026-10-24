@@ -31,16 +31,16 @@ Stack: **Databricks, Apache Spark (PySpark), Delta Lake, Unity Catalog, Airflow,
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/gabrielhenrique-6044/credentials/65c136c3b11c5706"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)" title="Azure Databricks Data Engineer Associate (DP-750)"/></a>
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft Certified: SQL AI Developer Associate" title="SQL AI Developer Associate"/>
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" title="Azure Fundamentals (AZ-900)"/>
+  <a href="https://learn.microsoft.com/en-us/users/gabrielhenrique-6044/credentials/certification/developing-ai-enabled-database-solutions"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft Certified: SQL AI Developer Associate (DP-800)" title="SQL AI Developer Associate (DP-800)"/></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" title="Azure Fundamentals (AZ-900)"/></a>
   <a href="https://www.credly.com/badges/957e8750-f89e-4860-8074-a88385a4093e/public_url"><img src="https://images.credly.com/images/6e9570ae-239f-47b9-85ff-0946c3844088/twitter_thumb_201604_blob" width="110" alt="Astronomer Certification: DAG Authoring for Apache Airflow 3" title="DAG Authoring for Apache Airflow 3"/></a>
   <a href="https://www.credly.com/badges/83c10772-4c3f-4d56-a7e1-f4cf842a241f/public_url"><img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/twitter_thumb_201604_blob" width="110" alt="Astronomer Certification: Apache Airflow 3 Fundamentals" title="Apache Airflow 3 Fundamentals"/></a>
   <a href="https://www.credly.com/badges/066af65e-fb52-4acd-a4f2-1891bdda4642/public_url"><img src="https://images.credly.com/images/9c136154-a1fe-46a9-8f5a-97eb8fe272a8/twitter_thumb_201604_blob" width="110" alt="Astronomer Certified: AI Orchestration Fundamentals" title="AI Orchestration Fundamentals"/></a>
 </p>
 
 - Microsoft Certified: **[Azure Databricks Data Engineer Associate (DP-750)](https://learn.microsoft.com/en-us/users/gabrielhenrique-6044/credentials/65c136c3b11c5706)**
-- Microsoft Certified: **SQL AI Developer Associate**
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- Microsoft Certified: **[SQL AI Developer Associate (DP-800)](https://learn.microsoft.com/en-us/users/gabrielhenrique-6044/credentials/certification/developing-ai-enabled-database-solutions)**
+- Microsoft Certified: **[Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)**
 - Astronomer: **[DAG Authoring for Apache Airflow 3](https://www.credly.com/badges/957e8750-f89e-4860-8074-a88385a4093e/public_url)** · **[Apache Airflow 3 Fundamentals](https://www.credly.com/badges/83c10772-4c3f-4d56-a7e1-f4cf842a241f/public_url)** · **[AI Orchestration Fundamentals](https://www.credly.com/badges/066af65e-fb52-4acd-a4f2-1891bdda4642/public_url)**
 
 **Education:** FIA Business School · FIAP · FATEC-SP
