@@ -81,7 +81,7 @@ More projects and case studies at **[gabrielh.dev/#projects](https://gabrielh.de
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="52" height="52" alt="Microsoft Azure" title="Microsoft Azure"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="52" height="52" alt="Azure SQL" title="Azure SQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52" alt="AWS" title="AWS"/>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52" alt="AWS" title="AWS"/></picture>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" title="Docker"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="52" height="52" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
